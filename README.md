@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Araeies 👋
 
 DevOps/DevSecOps engineer who loves all things cloud ☁️ and security 🔐.
