@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**araeies/araeies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Araeies 👋
 
-Here are some ideas to get you started:
+DevOps/DevSecOps engineer who loves all things cloud ☁️ and security 🔐.
+I'm a curious cat — always reading, building, and trying things out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm into
+
+- ☁️ Cloud infrastructure & security
+- 🏎️ Motorsport & ⚽ football
+- 💄 Beauty products & 💰 finance
+- ⚡ Energy industry
+- 📚 Reading anything interesting
+
+## 🔗 Find me here
+
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/rachael-aitanun)
+- 🐙 GitHub: [github.com/yourusername](https://github.com/araeies)
