@@ -13,5 +13,5 @@ I'm a curious cat — always reading, building, and trying things out.
 
 ## 🔗 Find me here
 
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/rachael-aitanun)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/araeies)
+- 💼 LinkedIn: [linkedin.com/in/Rachael Aitanun](https://linkedin.com/in/rachael-aitanun)
+- 🐙 GitHub: [github.com/araeies](https://github.com/araeies)
