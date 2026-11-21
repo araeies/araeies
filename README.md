@@ -1,14 +1,11 @@
 # Hi, I'm Araeies 👋
 
-DevOps/DevSecOps engineer who loves all things cloud ☁️ and security 🔐.
-I'm a curious cat — always reading, building, and trying things out.
+always reading, building, and trying things out.
 
 ## 🧠 What I'm into
 
-- ☁️ Cloud infrastructure & security
-- 🏎️ Motorsport & ⚽ football
-- 💄 Beauty products & 💰 finance
-- ⚡ Energy industry
+- ☁️ Cloud 
+- 🏎️ Motorsport 
 - 📚 Reading anything interesting
 
 ## 🔗 Find me here
